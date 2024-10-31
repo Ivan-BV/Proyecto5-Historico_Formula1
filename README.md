@@ -1,8 +1,8 @@
 
-# 📊 Proyecto5: Análisis historico sobre la Formula 1
-
-> [!IMPORTANT]
+> [!WARNING]
 > El proyecto esta en fase inicial.
+
+# 📊 Proyecto5: Análisis historico sobre la Formula 1
 
 ## 📖 Descripción del Proyecto
 
