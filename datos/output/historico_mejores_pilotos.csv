@@ -1,0 +1,109 @@
+,piloto,temporada,equipo,puntos_totales_constructor,total_carreras,victorias,podios,puntos,promedio_posicion_carrera,promedio_posicion_clasificacion,poles,cantidad_dnf,promedio_puntos,titulo
+0,Michael Schumacher,1991,Jordan,13.0,6,0,0,4.0,13.17,7.33,0,3,0.67,False
+1,Michael Schumacher,1992,Benetton,91.0,16,1,8,53.0,7.25,4.69,0,4,3.31,False
+2,Michael Schumacher,1993,Benetton,72.0,16,1,9,52.0,9.19,3.75,0,7,3.25,False
+3,Michael Schumacher,1994,Benetton,103.0,14,8,10,92.0,5.29,1.79,6,2,6.57,True
+4,Michael Schumacher,1995,Benetton,147.0,17,9,11,102.0,5.94,2.94,4,4,6.0,True
+5,Michael Schumacher,1996,Ferrari,70.0,16,3,8,59.0,7.75,2.62,4,5,3.69,False
+6,Michael Schumacher,1997,Ferrari,102.0,17,5,8,78.0,6.53,3.65,3,4,4.59,False
+7,Michael Schumacher,1998,Ferrari,133.0,16,6,11,86.0,4.69,3.06,3,3,5.38,False
+8,Michael Schumacher,1999,Ferrari,128.0,10,2,6,44.0,6.1,2.7,3,2,4.4,False
+9,Michael Schumacher,2000,Ferrari,170.0,17,9,12,108.0,5.29,2.0,9,4,6.35,True
+10,Michael Schumacher,2001,Ferrari,179.0,17,9,14,123.0,3.35,1.71,11,2,7.24,True
+11,Michael Schumacher,2002,Ferrari,221.0,17,11,17,144.0,1.41,1.82,7,0,8.47,True
+12,Michael Schumacher,2003,Ferrari,158.0,16,6,8,93.0,4.25,4.25,5,1,5.81,True
+13,Michael Schumacher,2004,Ferrari,262.0,18,13,15,148.0,2.61,3.94,8,1,8.22,True
+14,Michael Schumacher,2005,Ferrari,100.0,19,1,5,62.0,8.74,8.21,1,6,3.26,False
+15,Michael Schumacher,2006,Ferrari,201.0,18,7,12,121.0,4.33,5.44,4,2,6.72,False
+16,Michael Schumacher,2010,Mercedes,214.0,19,0,0,72.0,10.05,9.95,0,2,3.79,False
+17,Michael Schumacher,2011,Mercedes,165.0,19,0,0,76.0,11.89,10.32,0,5,4.0,False
+18,Michael Schumacher,2012,Mercedes,142.0,20,0,1,49.0,14.2,9.65,0,7,2.45,False
+19,Lewis Hamilton,2007,McLaren,218.0,17,4,12,109.0,3.94,2.59,6,1,6.41,False
+20,Lewis Hamilton,2008,McLaren,151.0,18,5,10,98.0,5.22,3.89,7,1,5.44,True
+21,Lewis Hamilton,2009,McLaren,71.0,17,2,5,49.0,9.71,9.18,4,2,2.88,False
+22,Lewis Hamilton,2010,McLaren,454.0,19,3,9,240.0,6.42,5.16,1,3,12.63,False
+23,Lewis Hamilton,2011,McLaren,497.0,19,3,6,227.0,6.74,3.58,1,3,11.95,False
+24,Lewis Hamilton,2012,McLaren,378.0,20,4,7,190.0,9.6,4.3,7,5,9.5,False
+25,Lewis Hamilton,2013,Mercedes,360.0,19,1,5,189.0,5.95,3.47,5,1,9.95,False
+26,Lewis Hamilton,2014,Mercedes,701.0,19,11,16,384.0,4.11,4.21,7,3,20.21,True
+27,Lewis Hamilton,2015,Mercedes,703.0,19,10,17,381.0,2.58,1.58,11,1,20.05,True
+28,Lewis Hamilton,2016,Mercedes,765.0,21,10,17,380.0,3.76,4.14,12,2,18.1,False
+29,Lewis Hamilton,2017,Mercedes,668.0,20,9,13,363.0,2.7,3.6,11,0,18.15,True
+30,Lewis Hamilton,2018,Mercedes,655.0,21,11,17,408.0,2.62,2.71,11,1,19.43,True
+31,Lewis Hamilton,2019,Mercedes,739.0,21,11,17,413.0,2.38,2.33,5,0,19.67,True
+32,Lewis Hamilton,2020,Mercedes,573.0,16,11,14,347.0,1.88,1.88,10,0,21.69,True
+33,Lewis Hamilton,2021,Mercedes,613.5,22,8,17,385.5,3.41,3.09,5,1,17.52,False
+34,Lewis Hamilton,2022,Mercedes,515.0,22,0,9,233.0,6.05,6.5,0,1,10.59,False
+35,Lewis Hamilton,2023,Mercedes,409.0,22,0,6,217.0,6.18,6.09,1,1,9.86,False
+36,Lewis Hamilton,2024,Mercedes,366.0,20,2,4,176.0,6.95,7.35,0,2,8.8,False
+37,Sebastian Vettel,2007,BMW Sauber,101.0,8,0,0,6.0,15.38,14.38,0,3,0.75,False
+38,Sebastian Vettel,2008,Toro Rosso,39.0,18,1,1,35.0,11.5,11.0,1,6,1.94,False
+39,Sebastian Vettel,2009,Red Bull,153.5,17,4,8,84.0,6.88,4.41,4,3,4.94,False
+40,Sebastian Vettel,2010,Red Bull,498.0,19,5,10,256.0,6.0,1.95,10,3,13.47,True
+41,Sebastian Vettel,2011,Red Bull,650.0,19,11,17,392.0,2.74,1.26,15,1,20.63,True
+42,Sebastian Vettel,2012,Red Bull,460.0,20,5,10,281.0,5.25,5.05,6,1,14.05,True
+43,Sebastian Vettel,2013,Red Bull,596.0,19,13,16,397.0,2.63,2.05,9,1,20.89,True
+44,Sebastian Vettel,2014,Red Bull,405.0,19,0,4,167.0,7.37,7.79,0,3,8.79,False
+45,Sebastian Vettel,2015,Ferrari,428.0,19,3,13,278.0,4.11,5.32,1,1,14.63,False
+46,Sebastian Vettel,2016,Ferrari,398.0,21,0,7,212.0,7.29,6.05,0,3,10.1,False
+47,Sebastian Vettel,2017,Ferrari,522.0,20,5,13,317.0,4.15,3.15,4,2,15.85,False
+48,Sebastian Vettel,2018,Ferrari,571.0,21,5,12,320.0,3.86,2.86,5,1,15.24,False
+49,Sebastian Vettel,2019,Ferrari,504.0,21,1,9,240.0,6.43,4.24,2,2,11.43,False
+50,Sebastian Vettel,2020,Ferrari,131.0,17,0,1,33.0,11.53,12.06,0,2,1.94,False
+51,Sebastian Vettel,2021,Aston Martin,77.0,22,0,1,43.0,12.05,11.18,0,2,1.95,False
+52,Sebastian Vettel,2022,Aston Martin,55.0,20,0,0,37.0,11.45,12.6,0,2,1.85,False
+53,Alain Prost,1980,McLaren,11.0,13,0,0,5.0,13.0,12.38,0,4,0.38,False
+54,Alain Prost,1981,Renault,54.0,15,3,6,43.0,11.93,4.8,2,9,2.87,False
+55,Alain Prost,1982,Renault,62.0,16,2,4,34.0,10.0,2.81,5,7,2.12,False
+56,Alain Prost,1983,Renault,79.0,15,4,7,57.0,6.67,4.47,3,3,3.8,False
+57,Alain Prost,1984,McLaren,143.5,16,7,9,71.5,7.12,3.0,3,5,4.47,False
+58,Alain Prost,1985,McLaren,90.0,16,5,11,76.0,5.31,4.19,2,3,4.75,True
+59,Alain Prost,1986,McLaren,96.0,16,4,11,74.0,5.25,4.25,1,2,4.62,True
+60,Alain Prost,1987,McLaren,76.0,16,3,7,46.0,8.31,4.31,0,4,2.88,False
+61,Alain Prost,1988,McLaren,199.0,16,7,14,105.0,3.56,2.5,2,2,6.56,False
+62,Alain Prost,1989,McLaren,141.0,16,4,11,81.0,5.38,2.56,2,3,5.06,True
+63,Alain Prost,1990,Ferrari,110.0,16,5,9,73.0,6.94,4.5,0,4,4.56,False
+64,Alain Prost,1991,Ferrari,55.5,15,0,5,34.0,11.67,4.47,0,6,2.27,False
+65,Alain Prost,1993,Williams,168.0,16,7,12,99.0,3.94,1.19,13,1,6.19,True
+66,Ayrton Senna,1984,Toleman,16.0,15,0,3,13.0,14.53,10.0,0,8,0.87,False
+67,Ayrton Senna,1985,Team Lotus,71.0,16,2,6,38.0,9.06,3.0,7,7,2.38,False
+68,Ayrton Senna,1986,Team Lotus,58.0,16,2,8,55.0,9.31,2.44,8,6,3.44,False
+69,Ayrton Senna,1987,Team Lotus,64.0,16,2,8,57.0,5.38,4.0,1,3,3.56,False
+70,Ayrton Senna,1988,McLaren,199.0,16,8,11,94.0,3.88,1.25,13,1,5.88,True
+71,Ayrton Senna,1989,McLaren,141.0,16,6,7,60.0,9.25,1.19,13,6,3.75,False
+72,Ayrton Senna,1990,McLaren,121.0,16,6,11,78.0,7.06,1.88,10,4,4.88,True
+73,Ayrton Senna,1991,McLaren,139.0,16,7,12,96.0,3.38,1.81,8,1,6.0,True
+74,Ayrton Senna,1992,McLaren,99.0,16,3,7,50.0,11.19,2.81,1,7,3.12,False
+75,Ayrton Senna,1993,McLaren,84.0,16,5,7,73.0,7.81,3.75,1,4,4.56,False
+76,Ayrton Senna,1994,Williams,118.0,3,0,0,0.0,19.67,1.0,3,3,0.0,False
+77,Max Verstappen,2015,Toro Rosso,67.0,19,0,0,49.0,11.16,11.37,0,4,2.58,False
+78,Max Verstappen,2016,Toro Rosso,63.0,21,1,7,204.0,6.9,5.05,0,3,9.71,False
+79,Max Verstappen,2017,Red Bull,368.0,20,2,4,168.0,9.3,6.1,0,7,8.4,False
+80,Max Verstappen,2018,Red Bull,419.0,21,2,11,249.0,6.1,7.05,0,4,11.86,False
+81,Max Verstappen,2019,Red Bull,417.0,21,3,9,278.0,5.0,4.71,2,2,13.24,False
+82,Max Verstappen,2020,Red Bull,319.0,17,2,11,214.0,7.12,3.06,1,5,12.59,False
+83,Max Verstappen,2021,Red Bull,585.5,22,10,18,388.5,4.14,2.86,10,3,17.66,True
+84,Max Verstappen,2022,Red Bull,759.0,22,15,17,433.0,3.5,3.41,7,1,19.68,True
+85,Max Verstappen,2023,Red Bull,860.0,22,19,21,530.0,1.27,3.18,12,0,24.09,True
+86,Max Verstappen,2024,Red Bull,512.0,20,7,12,330.0,3.7,2.85,8,1,16.5,True
+87,Fernando Alonso,2001,Minardi,0.0,17,0,0,0.0,15.76,19.47,0,8,0.0,False
+88,Fernando Alonso,2003,Renault,88.0,16,1,4,55.0,8.25,7.88,2,5,3.44,False
+89,Fernando Alonso,2004,Renault,105.0,18,0,4,59.0,7.39,7.56,1,5,3.28,False
+90,Fernando Alonso,2005,Renault,191.0,19,7,15,133.0,3.63,3.95,6,1,7.0,True
+91,Fernando Alonso,2006,Renault,206.0,18,7,14,134.0,3.56,4.28,6,2,7.44,True
+92,Fernando Alonso,2007,McLaren,218.0,17,4,12,109.0,4.0,3.18,2,1,6.41,False
+93,Fernando Alonso,2008,Renault,80.0,18,2,3,61.0,7.44,6.89,0,3,3.39,False
+94,Fernando Alonso,2009,Renault,26.0,17,0,1,26.0,9.82,8.88,1,3,1.53,False
+95,Fernando Alonso,2010,Ferrari,396.0,19,5,10,252.0,5.42,5.79,2,1,13.26,False
+96,Fernando Alonso,2011,Ferrari,375.0,19,1,10,257.0,4.42,4.58,0,1,13.53,False
+97,Fernando Alonso,2012,Ferrari,400.0,20,3,13,278.0,5.2,6.1,2,2,13.9,False
+98,Fernando Alonso,2013,Ferrari,354.0,19,2,9,242.0,5.0,6.0,0,1,12.74,False
+99,Fernando Alonso,2014,Ferrari,216.0,19,0,2,161.0,7.11,6.53,0,2,8.47,False
+100,Fernando Alonso,2015,McLaren,27.0,18,0,0,11.0,14.89,15.67,0,7,0.61,False
+101,Fernando Alonso,2016,McLaren,76.0,20,0,0,54.0,11.6,12.15,0,3,2.7,False
+102,Fernando Alonso,2017,McLaren,30.0,19,0,0,17.0,13.79,12.74,0,7,0.89,False
+103,Fernando Alonso,2018,McLaren,62.0,21,0,0,50.0,12.67,12.9,0,6,2.38,False
+104,Fernando Alonso,2021,Alpine F1 Team,0.0,22,0,1,81.0,9.91,10.5,0,2,3.68,False
+105,Fernando Alonso,2022,Alpine F1 Team,0.0,22,0,0,81.0,10.86,9.41,0,5,3.68,False
+106,Fernando Alonso,2023,Aston Martin,280.0,22,0,8,198.0,6.64,6.05,0,2,9.0,False
+107,Fernando Alonso,2024,Aston Martin,86.0,20,0,0,62.0,10.15,9.25,0,1,3.1,False

@@ -1,0 +1,135 @@
+,id,nombre,nacionalidad,duracion
+0,0,Alex von Falkenhausen Motorenbau,Germany,1952–1953
+1,1,Automobiles Gonfaronnaises Sportives(AGS),France,1986–1991
+2,2,Alfa Romeo,"Italy,Switzerland","1950–1951,1979–1985,2019–2023"
+3,3,Alfa Special,South Africa,"1963,1965"
+4,4,AlphaTauri,Italy,2020–2023
+5,5,Alta,United Kingdom,1950–1952
+6,6,Amon,New Zealand,1974
+7,7,Andrea Moda,Italy,1992
+8,8,Apollon,Switzerland,1977
+9,9,Arrows,United Kingdom,1978–2002
+10,10,Arzani-Volpini,Italy,1955
+11,11,Aston Butterworth,United Kingdom,1952
+12,12,Automobili Turismo e Sport,Italy,1963
+13,13,Auto Technisches Spezialzubehör(ATS),Germany,1977–1984
+14,14,British American Racing,United Kingdom,1999–2005
+15,15,Behra-Porsche,Germany,1959–1960
+16,16,Bellasi,Switzerland,1970–1971
+17,17,Benetton,"United Kingdom,Italy",1986–2001
+18,18,Boro,Netherlands,1976–1977
+19,19,Brabham,United Kingdom,"1962–1987,1989–1992"
+20,20,Brawn GP,United Kingdom,2009
+21,21,British Racing Motors,United Kingdom,"1951,1956–1977"
+22,22,British Racing Partnership,United Kingdom,1963–1964
+23,23,Bugatti,France,1956
+24,24,Caterham,Malaysia,2012–2014
+25,25,Cisitalia,Italy,1952
+26,26,Coloni,Italy,1987–1991
+27,27,Connaught,United Kingdom,1952–1959
+28,28,Connew,United Kingdom,1972
+29,29,Cooper Car Company,United Kingdom,"1950,1952–1969"
+30,30,Dallara,Italy,1988–1992
+31,31,De Tomaso,Italy,"1961–1963,1970"
+32,32,Eagle(Anglo American Racers),United States,1966–1969
+33,33,Eifelland,Germany,1972
+34,34,Emeryson,United Kingdom,"1956,1961–1962"
+35,35,Eisenacher Motorenwerk,East Germany,1953
+36,36,Ecurie Nationale Belge,Belgium,1962
+37,37,Ensign,United Kingdom,1973–1982
+38,38,English Racing Automobiles,United Kingdom,1950–1952
+39,39,EuroBrun,Italy,1988–1990
+40,40,Ferguson Research Ltd.,United Kingdom,1961
+41,41,FIRST,Italy,1989
+42,42,Fittipaldi Automotive(Copersucar),Brazil,1975–1982
+43,43,Fondmetal,Italy,1991–1992
+44,44,Force India(Sahara),India,2008–2018
+45,45,Forti,Italy,1995–1996
+46,46,Frank Williams Racing Cars,United Kingdom,1972–1976
+47,47,Frazer-Nash,United Kingdom,1952
+48,48,Fry,United Kingdom,1959
+49,49,Gilby Engineering,United Kingdom,1961–1963
+50,50,Gordini,France,1952–1956
+51,51,Greifzu,East Germany,1953
+52,52,Hesketh,United Kingdom,1974–1978
+53,53,Hill,United Kingdom,1975
+54,54,HRT(Hispania Racing Team),Spain,2010–2012
+55,55,Honda,Japan,"1964–1968,2006–2008"
+56,56,HWM(Hersham and Walton Motors),United Kingdom,1951–1955
+57,57,Jaguar,United Kingdom,2000–2004
+58,58,JBW,United Kingdom,1959–1961
+59,59,Jordan,Ireland,1991–2005
+60,60,Kauhsen,Germany,1979
+61,61,Klenk,Germany,1954
+62,62,Kojima,Japan,1976–1977
+63,63,Kurtis,United States,1959
+64,64,Lambo(Modena Team),Italy,1991
+65,65,Lancia,Italy,1954–1955
+66,66,Larrousse,France,1993–1994
+67,67,LDS,South Africa,"1962–1963,1965,1967–1968"
+68,68,LEC,United Kingdom,1977
+69,69,Leyton House,United Kingdom,1990–1991
+70,70,Life,Italy,1990
+71,71,Ligier/Talbot Ligier,France,1976–1996
+72,72,Lola,United Kingdom,"1962–1963,1967–1968,1974–1975,1985–1991,1993,1997"
+73,73,Lotus(1958–1994),United Kingdom,1958–1994
+74,74,Lotus(2010–2011),Malaysia,2010–2011
+75,75,Lotus(2012–2015),United Kingdom,2012–2015
+76,76,Lyncar,United Kingdom,1974–1975
+77,77,Maki,Japan,1974–1976
+78,78,Manor,United Kingdom,2016
+79,79,March,United Kingdom,"1970–1977,1981–1982,1987–1989,1992"
+80,80,Martini,France,1978
+81,81,Marussia,"Russia,United Kingdom",2012–2015
+82,82,Maserati,Italy,1950–1960
+83,83,Matra,France,1967–1972
+84,84,MBM,Switzerland,1961
+85,85,McGuire,Australia,1977
+86,86,Merzario,Italy,1978–1979
+87,87,Midland,Russia,2006
+88,88,Milano,Italy,1950
+89,89,Minardi,Italy,1985–2005
+90,90,Onyx,United Kingdom,1989–1990
+91,91,O.S.C.A.,Italy,"1951–1953,1958"
+92,92,Osella,Italy,1980–1990
+93,93,Pacific,United Kingdom,1994–1995
+94,94,Parnelli,United States,1974–1976
+95,95,Penske,United States,1974–1977
+96,96,Porsche,Germany,1957–1964
+97,97,Prost,France,1997–2001
+98,98,RAM,United Kingdom,1983–1985
+99,99,Racing Point Force India,United Kingdom,2018
+100,100,Racing Point,United Kingdom,2019–2020
+101,101,RE,Rhodesia,1965
+102,102,Renault,"France,United Kingdom","1977–1985,2002–2011,2016–2020"
+103,103,Rebaque,Mexico,1979
+104,104,Rial,Germany,1988–1989
+105,105,Scarab,United States,1960
+106,106,Scirocco,United Kingdom,1963–1964
+107,107,Shadow,"United States,United Kingdom",1973–1980
+108,108,Shannon,United Kingdom,1966
+109,109,Simca-Gordini,France,1950–1953
+110,110,Simtek,United Kingdom,1994–1995
+111,111,Spirit,United Kingdom,1983–1985
+112,112,Spyker,Netherlands,2007
+113,113,Stebro,Canada,1963
+114,114,Stewart,United Kingdom,1997–1999
+115,115,Super Aguri,Japan,2006–2008
+116,116,Surtees,United Kingdom,1970–1978
+117,117,SVA,Italy,1950
+118,118,Talbot-Lago,France,1950–1951
+119,119,Tec-Mec,United States,1959
+120,120,Tecno,Italy,1972–1973
+121,121,Theodore,Hong Kong,"1978,1981–1983"
+122,122,Token,United Kingdom,1974
+123,123,Toleman,United Kingdom,1981–1985
+124,124,Toro Rosso,Italy,2006–2019
+125,125,Toyota,Japan,2002–2009
+126,126,Trojan,United Kingdom,1974
+127,127,Tyrrell,United Kingdom,1970–1998
+128,128,Vanwall,United Kingdom,1954–1960
+129,129,Venturi,France,1992
+130,130,Veritas,Germany,1951–1953
+131,131,Virgin,"United Kingdom,Russia",2010–2011
+132,132,Wolf(Walter Wolf Racing),Canada,1977–1979
+133,133,Zakspeed,Germany,1985–1989
